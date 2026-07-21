@@ -1,21 +1,22 @@
-# Chapter 10 Companion Tools  
-**Voice Amplification at Scale**  
-*Prompt Chaining Blueprints, Serialization Planners, “Yes, And” Integration Worksheets, and Voice Drift Audits to Expand One Pillar Into a Full Editorial Series—Without Losing Your Voice*
+# Chapter 10 Companion Toolkit  
+*Voice Amplification at Scale*
 
-These tools walk you through the advanced techniques from the chapter: chaining prompts into a long-form essay, turning the AI into a creative improv partner, mapping a five-day content arc, and running quality assurance on voice consistency. Use them with a high-scoring pillar from your Decision Matrix, and you’ll produce a complete, multi-platform editorial series that sounds unmistakably like you from start to finish.
+This toolkit equips you to take a single high‑scoring pillar and expand it into a long‑form essay, a multi‑slide deck, or an entire five‑day content series—without your voice thinning out. You’ll learn prompt chaining to build layered pieces, the “yes, and” technique that turns AI into a true creative partner, serialization frameworks that hold attention across a full week, and a voice‑drift audit that keeps long‑form content as unmistakably you as a 140‑character tweet. Work through the tools in order; by the end you’ll have a complete editorial amplification pack ready to schedule.
 
 ---
 
-[Tool 1 Three‑Link Prompt Chain Builder (Fill‑in Template)](Tool%201%20Three‑Link%20Prompt%20Chain%20Builder%20(Fill‑in%20Template).md)
+[1. Three‑Link Prompt Chain Worksheet](1.%20Three‑Link%20Prompt%20Chain%20Worksheet.md)
 
-[Tool 2 “Yes, And” Editorial Integration Worksheet](Tool%202%20“Yes,%20And”%20Editorial%20Integration%20Worksheet.md)
+[2. “Yes, And” Editor Practice Sheet](2.%20“Yes,%20And”%20Editor%20Practice%20Sheet.md)
 
-[Tool 3 The Five‑Day Serialization Arc Planner](Tool%203%20The%20Five‑Day%20Serialization%20Arc%20Planner.md)
+[3. Five‑Day Content Arc Planner](3.%20Five‑Day%20Content%20Arc%20Planner.md)
 
-[Tool 4 Voice Drift Audit Checklist & Log](Tool%204%20Voice%20Drift%20Audit%20Checklist%20&%20Log.md)
+[4. Voice Drift Audit Checklist](4.%20Voice%20Drift%20Audit%20Checklist.md)
 
-[Tool 5 Amplification Project Time Tracker](Tool%205%20Amplification%20Project%20Time%20Tracker.md)
+[5. AI Prompt Templates Amplification Chains](5.%20AI%20Prompt%20Templates%20Amplification%20Chains.md)
 
-[Tool 6 Complex Integration Challenge – The Resonant Lead‑Magnet Arc](Tool%206%20Complex%20Integration%20Challenge%20–%20The%20Resonant%20Lead‑Magnet%20Arc.md)
+[6. Quick‑Start Action Plan Produce Your First Amplification Pack](6.%20Quick‑Start%20Action%20Plan%20Produce%20Your%20First%20Amplification%20Pack.md)
 
-[Tool 7 Voice Amplification Summary Card & Mental Rehearsal Script](Tool%207%20Voice%20Amplification%20Summary%20Card%20&%20Mental%20Rehearsal%20Script.md)
+[7. Amplification Mastery Identity Anchor](7.%20Amplification%20Mastery%20Identity%20Anchor.md)
+
+[8. Bonus Amplification Diagnostic Card](8.%20Bonus%20Amplification%20Diagnostic%20Card.md)

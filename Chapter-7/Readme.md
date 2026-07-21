@@ -1,23 +1,26 @@
-# Chapter 7 Companion Tools  
-**The Unified AI Editorial Workflow**  
-*Diagnostics, Dashboards, Scheduler Templates, and Maintenance Rituals to Connect Your Sprint Output Directly to Publication—Without the Admin Tax*
+# Chapter 7 Companion Toolkit  
+*The Unified AI Editorial Workflow*
 
-These tools help you diagnose your current tool stack chaos, redesign your workflow around a Hub‑as‑Dashboard, extend your prompts to produce scheduler‑ready output, and keep the pipeline frictionless over time. Work through them in order, and by the end you’ll have a unified system that carries a piece of content from “Hub built” to “posts scheduled” with almost no manual handoffs.
+This toolkit helps you close the final gap between your sprint output and scheduled posts. You’ll map your current tool handoffs, extend your Hub into a full editorial dashboard, teach your prompts to output scheduler-ready text, and establish a maintenance habit that keeps your pipeline friction-free. By the end, you’ll move from generation to publication without the app-switching grind.
 
 ---
 
-[Tool 1 The Current Workflow Diagnostic Map](Tool%201%20The%20Current%20Workflow%20Diagnostic%20Map.md)
+[1. Tool Stack Diagnostic Worksheet](1.%20Tool%20Stack%20Diagnostic%20Worksheet.md)
 
-[Tool 2 Hub‑as‑Dashboard Extension (Spoke Sections Template)](Tool%202%20Hub‑as‑Dashboard%20Extension%20(Spoke%20Sections%20Template).md)
+[2. Hub-as-Dashboard Extension Template](2.%20Hub-as-Dashboard%20Extension%20Template.md)
 
-[Tool 3 Scheduler‑Ready Output Format Builder](Tool%203%20Scheduler‑Ready%20Output%20Format%20Builder.md)
+[3. Scheduler-Ready Prompt Extensions (Fill-in Templates)](3.%20Scheduler-Ready%20Prompt%20Extensions%20(Fill-in%20Templates).md)
 
-[Tool 4 Platform‑Specific Integration Cheat Sheet](Tool%204%20Platform‑Specific%20Integration%20Cheat%20Sheet.md)
+[4. Scheduler-Ready Output Format Cheat Sheet](4.%20Scheduler-Ready%20Output%20Format%20Cheat%20Sheet.md)
 
-[Tool 5 End‑to‑End Test Checklist & Time Log](Tool%205%20End‑to‑End%20Test%20Checklist%20&%20Time%20Log.md)
+[5. End-to-End Workflow Test Checklist](5.%20End-to-End%20Workflow%20Test%20Checklist.md)
 
-[Tool 6 Your Unified Workflow Diagram Template](Tool%206%20Your%20Unified%20Workflow%20Diagram%20Template.md)
+[6. Monthly Workflow Audit Checklist](6.%20Monthly%20Workflow%20Audit%20Checklist.md)
 
-[Tool 7 Monthly Workflow Audit & Refinement Ritual](Tool%207%20Monthly%20Workflow%20Audit%20&%20Refinement%20Ritual.md)
+[7. Workflow Diagram Template](7.%20Workflow%20Diagram%20Template.md)
 
-[Tool 8 Unified Workflow Mental Rehearsal & Summary Card](Tool%208%20Unified%20Workflow%20Mental%20Rehearsal%20&%20Summary%20Card.md)
+[8. AI Prompt Workflow Integration Test Script](8.%20AI%20Prompt%20Workflow%20Integration%20Test%20Script.md)
+
+[9. Unified Workflow Identity Anchor](9.%20Unified%20Workflow%20Identity%20Anchor.md)
+
+[10. Quick-Start Deployment Plan Build Your Unified Workflow in One Session](10.%20Quick-Start%20Deployment%20Plan%20Build%20Your%20Unified%20Workflow%20in%20One%20Session.md)

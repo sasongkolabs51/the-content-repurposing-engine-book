@@ -1,29 +1,30 @@
-# Chapter 11 Companion Tools  
-**The Content Flywheel Automation System**  
-*Launchpads, Resilience Cards, Tune‑Up Logs, and Feedback Rituals to Turn Your Content Transformer Into a Self‑Sustaining Engine*
+# Chapter 11 Companion Toolkit  
+*The Content Flywheel Automation System*
 
-The tools that follow embed the chapter’s four pillars—autopilot, resilience protocol, daily tune‑up, and feedback loops—into your daily and weekly rhythm. They’re designed to make the system run with minimal willpower, recover gracefully when life interrupts, and improve steadily through tiny, consistent adjustments. Complete them in order, and by the end you’ll have a thirty‑day flywheel calendar, a launchpad that starts your sprint in sixty seconds, and a set of nested feedback rituals that keep your voice sharp and your matrix accurate without a massive monthly audit.
+This toolkit transforms your Content Transformer from a manual engine you have to push-start each week into a self‑sustaining flywheel that hums along even when life gets loud. You’ll design a launchpad that lets you begin a sprint in under a minute, build a resilience protocol for the weeks when a full sprint is impossible, install a five‑minute daily tune‑up that catches drift before it spreads, and set up nested feedback loops—weekly, monthly, quarterly—that keep your system honest and improving. By the end, you won’t be “doing repurposing”; the system will do it, and you’ll be its strategic overseer.
 
 ---
 
-[Tool 1 Sprint Launchpad (Fill‑in & Setup Guide)](Tool%201%20Sprint%20Launchpad%20(Fill‑in%20&%20Setup%20Guide).md)
+[1. Flywheel Autopilot Setup Worksheet](1.%20Flywheel%20Autopilot%20Setup%20Worksheet.md)
 
-[Tool 2 Weekly Flywheel Rhythms Calendar Builder](Tool%202%20Weekly%20Flywheel%20Rhythms%20Calendar%20Builder.md)
+[2. Sprint Launchpad Template](2.%20Sprint%20Launchpad%20Template.md)
 
-[Tool 3 Resilience Protocol Trigger Card](Tool%203%20Resilience%20Protocol%20Trigger%20Card.md)
+[3. Resilience Protocol Card](3.%20Resilience%20Protocol%20Card.md)
 
-[Tool 4 Daily 5‑Minute Tune‑Up Log](Tool%204%20Daily%205‑Minute%20Tune‑Up%20Log.md)
+[4. Daily 5‑Minute Tune‑Up Checklist](4.%20Daily%205‑Minute%20Tune‑Up%20Checklist.md)
 
-[Tool 5 Weekly Data Whisper Worksheet](Tool%205%20Weekly%20Data%20Whisper%20Worksheet.md)
+[5. Weekly Data Whisper Log](5.%20Weekly%20Data%20Whisper%20Log.md)
 
-[Tool 6 One Percent Rule Weekly Improvement Log](Tool%206%20One%20Percent%20Rule%20Weekly%20Improvement%20Log.md)
+[6. Monthly Voice Check Scorecard](6.%20Monthly%20Voice%20Check%20Scorecard.md)
 
-[Tool 7 Monthly Voice Check Audit Form](Tool%207%20Monthly%20Voice%20Check%20Audit%20Form.md)
+[7. Quarterly External Audit Guide](7.%20Quarterly%20External%20Audit%20Guide.md)
 
-[Tool 8 Quarterly External Audit Request Template](Tool%208%20Quarterly%20External%20Audit%20Request%20Template.md)
+[8. Progress Evolution Tracker](8.%20Progress%20Evolution%20Tracker.md)
 
-[Tool 9 Progress Evolution Tracker (Spreadsheet Template)](Tool%209%20Progress%20Evolution%20Tracker%20(Spreadsheet%20Template).md)
+[9. One Percent Rule Weekly Log (Standalone)](9.%20One%20Percent%20Rule%20Weekly%20Log%20(Standalone).md)
 
-[Tool 10 First 30‑Day Flywheel Calendar (Fill‑in Template)](Tool%2010%20First%2030‑Day%20Flywheel%20Calendar%20(Fill‑in%20Template).md)
+[10. AI Prompt Templates for Flywheel Maintenance](10.%20AI%20Prompt%20Templates%20for%20Flywheel%20Maintenance.md)
 
-[Tool 11 Flywheel Mental Rehearsal Script & Summary Card](Tool%2011%20Flywheel%20Mental%20Rehearsal%20Script%20&%20Summary%20Card.md)
+[11. 30‑Day Flywheel Installation Calendar](11.%2030‑Day%20Flywheel%20Installation%20Calendar.md)
+
+[12. Flywheel Mastery Identity Anchor](12.%20Flywheel%20Mastery%20Identity%20Anchor.md)

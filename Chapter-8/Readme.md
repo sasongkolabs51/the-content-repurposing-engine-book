@@ -1,23 +1,26 @@
-# Chapter 8 Companion Tools  
-**Advanced Prompt Craft for Magnetic Hooks and Arcs**  
-*Worksheets, Pattern Libraries, A/B Test Logs, and Monthly Rituals to Turn AI Output from “Fine” to Unforgettable*
+# Chapter 8 Companion Toolkit  
+*Advanced Prompt Craft for Magnetic Hooks and Arcs*
 
-These tools translate the chapter’s advanced concepts—hook engines, conditional prompting, exemplar loops, and magnetic failure diagnostics—into concrete, reusable resources. Work through them in order to upgrade your prompt library from functional to magnetic. By the time you’re done, your AI cocreator won’t just sound like you; it’ll command attention like the sharpest, most compelling version of you.
+This toolkit takes your prompts from “reliable” to “unignorable.” You’ll upgrade your hook instructions with specific, teachable architectures, install a conditional logic layer that matches tone to content, build an exemplar loop that learns from your own top posts, and learn to diagnose why even great prompts sometimes fall flat. Work through it in order—each section adds a new magnetic layer to your AI co-creator.
 
 ---
 
-[Tool 1 Hook Architecture Upgrade Worksheet](Tool%201%20Hook%20Architecture%20Upgrade%20Worksheet.md)
+[1. Hook Architecture Menu](1.%20Hook%20Architecture%20Menu.md)
 
-[Tool 2 Conditional Prompting Integration Template](Tool%202%20Conditional%20Prompting%20Integration%20Template.md)
+[2. Prompt Hook & Arc Upgrade Worksheet](2.%20Prompt%20Hook%20&%20Arc%20Upgrade%20Worksheet.md)
 
-[Tool 3 The Exemplar Loop Monthly Ritual Kit](Tool%203%20The%20Exemplar%20Loop%20Monthly%20Ritual%20Kit.md)
+[3. AI Prompt Templates Magnetic Upgrade (Fill‑In)](3.%20AI%20Prompt%20Templates%20Magnetic%20Upgrade%20(Fill‑In).md)
 
-[Tool 4 Magnetic Failure Diagnostic Guide & Fix Log](Tool%204%20Magnetic%20Failure%20Diagnostic%20Guide%20&%20Fix%20Log.md)
+[4. Conditional Logic Builder Template](4.%20Conditional%20Logic%20Builder%20Template.md)
 
-[Tool 5 AB Hook Magnetism Test Planner & Results Log](Tool%205%20AB%20Hook%20Magnetism%20Test%20Planner%20&%20Results%20Log.md)
+[5. Exemplar Loop Setup & Monthly Rotation Log](5.%20Exemplar%20Loop%20Setup%20&%20Monthly%20Rotation%20Log.md)
 
-[Tool 6 Advanced Prompt Lab – Integrated Exercise Checklist](Tool%206%20Advanced%20Prompt%20Lab%20–%20Integrated%20Exercise%20Checklist.md)
+[6. AB Magnetism Test Tracker](6.%20AB%20Magnetism%20Test%20Tracker.md)
 
-[Tool 7 Complex Scenario Challenge Prompt Builder](Tool%207%20Complex%20Scenario%20Challenge%20Prompt%20Builder.md)
+[7. Magnetic Failure Diagnostic Card](7.%20Magnetic%20Failure%20Diagnostic%20Card.md)
 
-[Tool 8 Magnetism Summary Card & Mental Rehearsal Script](Tool%208%20Magnetism%20Summary%20Card%20&%20Mental%20Rehearsal%20Script.md)
+[8. Monthly Magnetism Review Checklist](8.%20Monthly%20Magnetism%20Review%20Checklist.md)
+
+[9. Magnetic Craft Identity Anchor](9.%20Magnetic%20Craft%20Identity%20Anchor.md)
+
+[10. Quick‑Start Action Plan Upgrade Your Prompts to Magnetic](10.%20Quick‑Start%20Action%20Plan%20Upgrade%20Your%20Prompts%20to%20Magnetic.md)

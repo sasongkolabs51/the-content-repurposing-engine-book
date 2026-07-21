@@ -1,23 +1,26 @@
-# Chapter 9 Companion Tools  
-**The Repurposing Decision Matrix**  
-*Templates, Scoring Sheets, and Prioritization Workflows to Turn Gut Feel Into a Data-Informed Sprint Playlist*
+# Chapter 9 Companion Toolkit  
+*The Repurposing Decision Matrix*
 
-These tools transform the chapter’s framework into a repeatable, weekly practice. You’ll define what success looks like on every platform, score your last ten pillar pieces, calculate weighted priorities, and build a monthly maintenance ritual that keeps your repurposing energy aimed at the highest-return content. Complete them in order—by the end you’ll have a working decision matrix integrated with your sprint rhythm.
+This toolkit gives you the templates and rituals to score your content, prioritize your sprints, and allocate your creative energy where it’ll actually move the needle. By the time you’ve worked through it, you’ll stop guessing which pieces to repurpose—and start knowing.
 
 ---
 
-[Tool 1 Platform Metrics & Goals Map (Fill‑in Template)](Tool%201%20Platform%20Metrics%20&%20Goals%20Map%20(Fill‑in%20Template).md)
+[1. Metrics-and-Goals Map (Fill‑in Template)](1.%20Metrics-and-Goals%20Map%20(Fill‑in%20Template).md)
 
-[Tool 2 Pillar Content Scoring Sheet (Single Piece)](Tool%202%20Pillar%20Content%20Scoring%20Sheet%20(Single%20Piece).md)
+[2. Scoring Dimensions Reference Card](2.%20Scoring%20Dimensions%20Reference%20Card.md)
 
-[Tool 3 The Ten‑Piece Retrospective Scoring Worksheet](Tool%203%20The%20Ten‑Piece%20Retrospective%20Scoring%20Worksheet.md)
+[3. Ten-Piece Retrospective Scoring Worksheet](3.%20Ten-Piece%20Retrospective%20Scoring%20Worksheet.md)
 
-[Tool 4 Weekly Sprint Prioritization Planner](Tool%204%20Weekly%20Sprint%20Prioritization%20Planner.md)
+[4. Hub Metadata Scorecard (Cut‑and‑Paste for Each Hub)](4.%20Hub%20Metadata%20Scorecard%20(Cut‑and‑Paste%20for%20Each%20Hub).md)
 
-[Tool 5 Matrix Blind Spot Audit & Fix Log](Tool%205%20Matrix%20Blind%20Spot%20Audit%20&%20Fix%20Log.md)
+[5. Weekly Sprint Prioritization Planner](5.%20Weekly%20Sprint%20Prioritization%20Planner.md)
 
-[Tool 6 Monthly Matrix Maintenance Ritual (Checklist)](Tool%206%20Monthly%20Matrix%20Maintenance%20Ritual%20(Checklist).md)
+[6. Monthly Matrix Maintenance Checklist](6.%20Monthly%20Matrix%20Maintenance%20Checklist.md)
 
-[Tool 7 Complex Scenario Simulation – The Sensitive Topic Stress Test](Tool%207%20Complex%20Scenario%20Simulation%20–%20The%20Sensitive%20Topic%20Stress%20Test.md)
+[7. Complex Scenario Simulation Worksheet](7.%20Complex%20Scenario%20Simulation%20Worksheet.md)
 
-[Tool 8 The Repurposing Decision Matrix Summary Card & Mental Script](Tool%208%20The%20Repurposing%20Decision%20Matrix%20Summary%20Card%20&%20Mental%20Script.md)
+[8. AI Prompt Template Hub Content Scorer (Initial Impressions)](8.%20AI%20Prompt%20Template%20Hub%20Content%20Scorer%20(Initial%20Impressions).md)
+
+[9. Repurposing Decision Matrix at a Glance (One‑Pager)](9.%20Repurposing%20Decision%20Matrix%20at%20a%20Glance%20(One‑Pager).md)
+
+[10. Strategic Director Identity Anchor](10.%20Strategic%20Director%20Identity%20Anchor.md)
