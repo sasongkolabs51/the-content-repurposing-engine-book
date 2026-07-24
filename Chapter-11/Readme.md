@@ -1,30 +1,39 @@
-# Chapter 11 Companion Toolkit  
-*The Content Flywheel Automation System*
+# Chapter 11 Companion Toolkit
 
-This toolkit transforms your Content Transformer from a manual engine you have to push-start each week into a self‑sustaining flywheel that hums along even when life gets loud. You’ll design a launchpad that lets you begin a sprint in under a minute, build a resilience protocol for the weeks when a full sprint is impossible, install a five‑minute daily tune‑up that catches drift before it spreads, and set up nested feedback loops—weekly, monthly, quarterly—that keep your system honest and improving. By the end, you won’t be “doing repurposing”; the system will do it, and you’ll be its strategic overseer.
+## *The Content Flywheel Automation System — Your Working Documents*
 
 ---
 
-[1. Flywheel Autopilot Setup Worksheet](1.%20Flywheel%20Autopilot%20Setup%20Worksheet.md)
+## How to Use This Toolkit
 
-[2. Sprint Launchpad Template](2.%20Sprint%20Launchpad%20Template.md)
+Chapter 11 is where the system stops being something you *do* and becomes something that *runs*. Everything before this was construction—building Hubs, engineering prompts, running sprints, crafting hooks, scoring content. This chapter is about making all of that self-sustaining. About designing a rhythm so embedded in your week that skipping it feels stranger than doing it. About building fallbacks so the system survives the weeks when life hits hard. About installing feedback loops so the machine gets sharper without you scheduling a quarterly "content strategy day" that never happens.
 
-[3. Resilience Protocol Card](3.%20Resilience%20Protocol%20Card.md)
+The documents here are designed to be *small*. Tool 1 fits on a single page. Tool 3 takes five minutes. Tool 4 takes ten. The Resilience Card fits on an index card. This is intentional. The flywheel doesn't run on heroic effort. It runs on tiny, consistent, almost invisible rituals that compound into something remarkable over months and years.
 
-[4. Daily 5‑Minute Tune‑Up Checklist](4.%20Daily%205‑Minute%20Tune‑Up%20Checklist.md)
+One principle to hold: **the system serves your life, not the other way around.** The flywheel exists so you can go deeper on your work, rest without guilt, reply to the reader who said your post changed their Tuesday, take a week off when your kid is sick, and come back to a system that's still humming. If the system ever starts feeling like another obligation, another source of guilt, another thing you're "supposed" to do—stop. Revisit the Resilience Protocol. Run a microsprint. Or take the intentional pause. The flywheel is resilient by design. It can handle your absence. That's the whole point.
 
-[5. Weekly Data Whisper Log](5.%20Weekly%20Data%20Whisper%20Log.md)
+---
 
-[6. Monthly Voice Check Scorecard](6.%20Monthly%20Voice%20Check%20Scorecard.md)
+---
 
-[7. Quarterly External Audit Guide](7.%20Quarterly%20External%20Audit%20Guide.md)
+[TOOL 1 The Sprint Launchpad](TOOL%201%20The%20Sprint%20Launchpad.md)
 
-[8. Progress Evolution Tracker](8.%20Progress%20Evolution%20Tracker.md)
+[TOOL 2 The Weekly Flywheel Calendar](TOOL%202%20The%20Weekly%20Flywheel%20Calendar.md)
 
-[9. One Percent Rule Weekly Log (Standalone)](9.%20One%20Percent%20Rule%20Weekly%20Log%20(Standalone).md)
+[TOOL 3 The Daily 5-Minute Tune-Up Card](TOOL%203%20The%20Daily%205-Minute%20Tune-Up%20Card.md)
 
-[10. AI Prompt Templates for Flywheel Maintenance](10.%20AI%20Prompt%20Templates%20for%20Flywheel%20Maintenance.md)
+[TOOL 4 The Weekly Data Whisper Worksheet](TOOL%204%20The%20Weekly%20Data%20Whisper%20Worksheet.md)
 
-[11. 30‑Day Flywheel Installation Calendar](11.%2030‑Day%20Flywheel%20Installation%20Calendar.md)
+[TOOL 5 The Monthly Voice Check Protocol](TOOL%205%20The%20Monthly%20Voice%20Check%20Protocol.md)
 
-[12. Flywheel Mastery Identity Anchor](12.%20Flywheel%20Mastery%20Identity%20Anchor.md)
+[TOOL 6 The Quarterly External Audit Guide](TOOL%206%20The%20Quarterly%20External%20Audit%20Guide.md)
+
+[TOOL 7 The Resilience Protocol Card](TOOL%207%20The%20Resilience%20Protocol%20Card.md)
+
+[TOOL 8 The Progress Evolution Tracker](TOOL%208%20The%20Progress%20Evolution%20Tracker.md)
+
+[TOOL 9 The One Percent Rule Log](TOOL%209%20The%20One%20Percent%20Rule%20Log.md)
+
+[TOOL 10 The 30-Day Flywheel Implementation Roadmap](TOOL%2010%20The%2030-Day%20Flywheel%20Implementation%20Roadmap.md)
+
+[Final Note](Final%20Note.md)

@@ -1,26 +1,35 @@
-# Chapter 8 Companion Toolkit  
-*Advanced Prompt Craft for Magnetic Hooks and Arcs*
+# Chapter 8 Companion Toolkit
 
-This toolkit takes your prompts from “reliable” to “unignorable.” You’ll upgrade your hook instructions with specific, teachable architectures, install a conditional logic layer that matches tone to content, build an exemplar loop that learns from your own top posts, and learn to diagnose why even great prompts sometimes fall flat. Work through it in order—each section adds a new magnetic layer to your AI co-creator.
+## *Advanced Prompt Craft for Magnetic Hooks and Arcs — Your Working Documents*
 
 ---
 
-[1. Hook Architecture Menu](1.%20Hook%20Architecture%20Menu.md)
+## How to Use This Toolkit
 
-[2. Prompt Hook & Arc Upgrade Worksheet](2.%20Prompt%20Hook%20&%20Arc%20Upgrade%20Worksheet.md)
+Chapter 8 is where your content stops being *correct* and starts being *compelling*. Everything before this was about building a reliable machine—voice-true, platform-native, on schedule. This chapter is about making that machine produce work that grabs someone by the collar at 7:42 a.m. while they're half-awake on the train and makes them forget to get off at their stop.
 
-[3. AI Prompt Templates Magnetic Upgrade (Fill‑In)](3.%20AI%20Prompt%20Templates%20Magnetic%20Upgrade%20(Fill‑In).md)
+The documents here are built for two modes: **construction** (building the advanced prompt architecture) and **calibration** (testing, measuring, and iterating based on live audience response). Tools 1–4 are construction documents—you'll use them once to upgrade your prompts, then occasionally to refine. Tools 5–8 are calibration documents—you'll use them monthly, sometimes weekly, as part of your ongoing practice.
 
-[4. Conditional Logic Builder Template](4.%20Conditional%20Logic%20Builder%20Template.md)
+One warning before you start: this chapter will make you slightly obsessed with hooks. You'll start reading other people's tweets and thinking, "Ah, that's a Specificity Bomb with a Contrarian Cliffhanger tail." You'll catch yourself analyzing LinkedIn carousels at parties. This is normal. It means the craft is installing. The obsession fades into instinct after a few weeks, and what remains is simply a sharper eye for what makes attention snap to attention.
 
-[5. Exemplar Loop Setup & Monthly Rotation Log](5.%20Exemplar%20Loop%20Setup%20&%20Monthly%20Rotation%20Log.md)
+---
 
-[6. AB Magnetism Test Tracker](6.%20AB%20Magnetism%20Test%20Tracker.md)
+---
 
-[7. Magnetic Failure Diagnostic Card](7.%20Magnetic%20Failure%20Diagnostic%20Card.md)
+[TOOL 1 The Hook Architecture Library](TOOL%201%20The%20Hook%20Architecture%20Library.md)
 
-[8. Monthly Magnetism Review Checklist](8.%20Monthly%20Magnetism%20Review%20Checklist.md)
+[TOOL 2 The Conditional Logic Prompt Block](TOOL%202%20The%20Conditional%20Logic%20Prompt%20Block.md)
 
-[9. Magnetic Craft Identity Anchor](9.%20Magnetic%20Craft%20Identity%20Anchor.md)
+[TOOL 3 The Advanced Prompt Template (Upgraded)](TOOL%203%20The%20Advanced%20Prompt%20Template%20(Upgraded).md)
 
-[10. Quick‑Start Action Plan Upgrade Your Prompts to Magnetic](10.%20Quick‑Start%20Action%20Plan%20Upgrade%20Your%20Prompts%20to%20Magnetic.md)
+[TOOL 4 The AB Magnetism Test Protocol](TOOL%204%20The%20AB%20Magnetism%20Test%20Protocol.md)
+
+[TOOL 5 The Magnetic Failure Diagnostic Guide](TOOL%205%20The%20Magnetic%20Failure%20Diagnostic%20Guide.md)
+
+[TOOL 6 The Exemplar Loop Worksheet](TOOL%206%20The%20Exemplar%20Loop%20Worksheet.md)
+
+[TOOL 7 The Complex Scenario Challenge Worksheet](TOOL%207%20The%20Complex%20Scenario%20Challenge%20Worksheet.md)
+
+[TOOL 8 The 30-Day Implementation Roadmap (Chapter 8)](TOOL%208%20The%2030-Day%20Implementation%20Roadmap%20(Chapter%208).md)
+
+[Final Note](Final%20Note.md)

@@ -1,24 +1,39 @@
-# Chapter 5 Companion Toolkit  
-*Prompt Engineering the Voice Amplifier*
+# Chapter 5 Companion Toolkit
 
-This toolkit turns your prompt-writing from hopeful guesswork into a precision system. By the end, you’ll have a working, tested prompt library that consistently produces voice-accurate, platform-native first drafts—and a repeatable method to tighten any prompt until it’s bulletproof.
+## *Prompt Engineering the Voice Amplifier — Your Working Documents*
 
 ---
 
-[1. Prompt Anatomy Breakdown Worksheet](1.%20Prompt%20Anatomy%20Breakdown%20Worksheet.md)
+## How to Use This Toolkit
 
-[2. Condensed Voice Fingerprint Prompt Block](2.%20Condensed%20Voice%20Fingerprint%20Prompt%20Block.md)
+Chapter 5 is where the system ignites. You've got the fuel (Hub), the DNA (Voice Fingerprint), and the stage directions (Platform Playbook). This chapter gives you the ignition key: the actual prompts that turn those three documents into voice-true, platform-native content. Without this layer, everything you've built stays theoretical. With it, you walk into any AI chat window with a precision creative brief that produces drafts you'd be proud to post after a five-minute edit.
 
-[3. Fill-in Prompt Templates for Your Core Platforms](3.%20Fill-in%20Prompt%20Templates%20for%20Your%20Core%20Platforms.md)
+These templates walk you through building your prompt library from scratch, testing it rigorously, diagnosing failures, and iterating until the output consistently sounds like you. The first build takes about 90 minutes. After that, each new prompt takes 10–15 minutes to adapt, and the testing loop gets faster every time.
 
-[4. Prompt Testing Scorecard](4.%20Prompt%20Testing%20Scorecard.md)
+One mindset note before you start: **a prompt is not a prayer.** You're not hoping the AI guesses right. You're specifying constraints so tightly that the AI has almost no room to drift. Every generic output you've ever received was a missing constraint, not a machine failure. This toolkit trains you to find the missing constraint every single time.
 
-[5. Common Failures & Prompt Fixes Card](5.%20Common%20Failures%20&%20Prompt%20Fixes%20Card.md)
+---
 
-[6. Prompt Library Integration Checklist](6.%20Prompt%20Library%20Integration%20Checklist.md)
+---
 
-[7. The Swap Test Worksheet](7.%20The%20Swap%20Test%20Worksheet.md)
+[TOOL 1 The Voice-Preserving Prompt Anatomy Worksheet](TOOL%201%20The%20Voice-Preserving%20Prompt%20Anatomy%20Worksheet.md)
 
-[8. Quick-Start Session Plan Build Your Prompt Library in One Focused Block](8.%20Quick-Start%20Session%20Plan%20Build%20Your%20Prompt%20Library%20in%20One%20Focused%20Block.md)
+[TOOL 2 The Core Prompt Library (Fill-in Templates)](TOOL%202%20The%20Core%20Prompt%20Library%20(Fill-in%20Templates).md)
 
-[9. Editorial Director Prompt Mantra](9.%20Editorial%20Director%20Prompt%20Mantra.md)
+[TOOL 3 The Voice Fingerprint Condensation Template](TOOL%203%20The%20Voice%20Fingerprint%20Condensation%20Template.md)
+
+[TOOL 4 The Prompt Grading Rubric & Scorecard](TOOL%204%20The%20Prompt%20Grading%20Rubric%20&%20Scorecard.md)
+
+[TOOL 5 The Swap Test Worksheet](TOOL%205%20The%20Swap%20Test%20Worksheet.md)
+
+[TOOL 6 The Prompt Failure Diagnostic Guide](TOOL%206%20The%20Prompt%20Failure%20Diagnostic%20Guide.md)
+
+[TOOL 7 The Prompt Iteration Log](TOOL%207%20The%20Prompt%20Iteration%20Log.md)
+
+[TOOL 8 The Reference Example Library](TOOL%208%20The%20Reference%20Example%20Library.md)
+
+[TOOL 9 The Prompt-Playbook Integration Map](TOOL%209%20The%20Prompt-Playbook%20Integration%20Map.md)
+
+[TOOL 10 The 30-Day Implementation Roadmap (Chapter 5)](TOOL%2010%20The%2030-Day%20Implementation%20Roadmap%20(Chapter%205).md)
+
+[Final Note](Final%20Note.md)

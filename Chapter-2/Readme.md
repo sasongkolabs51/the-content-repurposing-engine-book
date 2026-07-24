@@ -1,24 +1,39 @@
-# Chapter 2 Companion Toolkit  
-*The Authentic AI Cocreator Pact*
+# Chapter 2 Companion Toolkit
 
-This toolkit turns the mental shifts of Chapter 2 into repeatable practice. By the time you’ve worked through it, you’ll have a documented Voice Fingerprint, a signed Cocreator Pact, and a set of AI prompts that actually sound like you. Keep the pact visible near your workspace—it’s the anchor that will hold the new operating system in place.
+## *The Authentic AI Cocreator Pact — Your Working Documents*
 
 ---
 
-[1. AI Burn Moment Audit Worksheet](1.%20AI%20Burn%20Moment%20Audit%20Worksheet.md)
+## How to Use This Toolkit
 
-[2. Voice Fingerprint Extraction Workbook](2.%20Voice%20Fingerprint%20Extraction%20Workbook.md)
+Chapter 1 gave you the architectural shift. Chapter 2 gives you the *relationship* shift—the one between you and the AI tools you've been either avoiding or fighting with. These documents walk you through that shift in concrete, physical steps. No vibes. No "just trust the process." You'll build a spec sheet for your voice, draft a working contract with your AI cocreator, and prove to yourself (with a stopwatch) that the old "I must type every word myself" belief was costing you more than it was protecting.
 
-[3. Cocreator Pact Template](3.%20Cocreator%20Pact%20Template.md)
+Work through Tools 1–4 in order during your first session. They build on each other. Tools 5–10 are operational documents you'll return to weekly. Total first-pass time: about two hours. Block a Saturday morning. Make coffee. Close everything else.
 
-[4. Authenticity Reframe Practice Worksheet](4.%20Authenticity%20Reframe%20Practice%20Worksheet.md)
+One ground rule before you start: **be specific.** Every time you're tempted to write "I sound conversational" or "my vibe is chill," push yourself one level deeper. *Which* conversational? Conversational like a text to a friend, or conversational like a podcast host warming up a studio audience? The AI can't read "chill." It can read "use contractions, favor sentences under 12 words, open with a two-word fragment, and close with a rhetorical question the reader answers internally." Specificity is the entire game.
 
-[5. AI Prompt Templates With Voice Fingerprint Integration](5.%20AI%20Prompt%20Templates%20With%20Voice%20Fingerprint%20Integration.md)
+---
 
-[6. Writer-to-Orchestrator Identity Shift Daily Script](6.%20Writer-to-Orchestrator%20Identity%20Shift%20Daily%20Script.md)
+---
 
-[7. Voice Fingerprint Refinement Checklist](7.%20Voice%20Fingerprint%20Refinement%20Checklist.md)
+[TOOL 1 The AI Burn Moment Audit](TOOL%201%20The%20AI%20Burn%20Moment%20Audit.md)
 
-[8. The “Pact Breach” Quick Diagnostic Card](8.%20The%20“Pact%20Breach”%20Quick%20Diagnostic%20Card.md)
+[TOOL 2 The Voice Fingerprint Extraction Document](TOOL%202%20The%20Voice%20Fingerprint%20Extraction%20Document.md)
 
-[9. 7-Day Cocreator Pact Installation Plan](9.%207-Day%20Cocreator%20Pact%20Installation%20Plan.md)
+[TOOL 3 The Cocreator Pact](TOOL%203%20The%20Cocreator%20Pact.md)
+
+[TOOL 4 The Authenticity Reframe Practice](TOOL%204%20The%20Authenticity%20Reframe%20Practice.md)
+
+[TOOL 5 The Writer-to-Orchestrator Identity Shift — Weekly Self-Check](TOOL%205%20The%20Writer-to-Orchestrator%20Identity%20Shift%20—%20Weekly%20Self-Check.md)
+
+[TOOL 6 The Pre-Prompt Session Planner](TOOL%206%20The%20Pre-Prompt%20Session%20Planner.md)
+
+[TOOL 7 AI Prompt Templates (Chapter 2 Edition)](TOOL%207%20AI%20Prompt%20Templates%20(Chapter%202%20Edition).md)
+
+[TOOL 8 The Is This Voice-True Quality Checklist](TOOL%208%20The%20Is%20This%20Voice-True%20Quality%20Checklist.md)
+
+[TOOL 9 The Monthly Voice Fingerprint Refinement Session](TOOL%209%20The%20Monthly%20Voice%20Fingerprint%20Refinement%20Session.md)
+
+[TOOL 10 The 30-Day Implementation Roadmap (Chapter 2)](TOOL%2010%20The%2030-Day%20Implementation%20Roadmap%20(Chapter%202).md)
+
+[Final Note](Final%20Note.md)

@@ -1,26 +1,39 @@
-# Chapter 9 Companion Toolkit  
-*The Repurposing Decision Matrix*
+# Chapter 9 Companion Toolkit
 
-This toolkit gives you the templates and rituals to score your content, prioritize your sprints, and allocate your creative energy where it’ll actually move the needle. By the time you’ve worked through it, you’ll stop guessing which pieces to repurpose—and start knowing.
+## *The Repurposing Decision Matrix — Your Working Documents*
 
 ---
 
-[1. Metrics-and-Goals Map (Fill‑in Template)](1.%20Metrics-and-Goals%20Map%20(Fill‑in%20Template).md)
+## How to Use This Toolkit
 
-[2. Scoring Dimensions Reference Card](2.%20Scoring%20Dimensions%20Reference%20Card.md)
+Chapter 9 is where your Content Transformer gets a brain. Everything before this was about *how* to repurpose—building Hubs, engineering prompts, running sprints, connecting workflows, crafting magnetic hooks. This chapter is about *what* to repurpose, *where* to aim it, and *how deep* to go. Without it, you're a precision engine burning fuel on whatever happens to be in front of you. With it, you're a precision engine pointed at the target that actually moves your business.
 
-[3. Ten-Piece Retrospective Scoring Worksheet](3.%20Ten-Piece%20Retrospective%20Scoring%20Worksheet.md)
+These documents walk you through defining your platform goals, scoring your content on three dimensions (Evergreen Strength, Emotional Resonance, Shareability), building a weighted matrix that translates scores into sprint priorities, and maintaining the system so it stays accurate as your data accumulates. The first build takes about 90 minutes. After that, it's a ten-minute weekly planning ritual and a twenty-minute monthly review.
 
-[4. Hub Metadata Scorecard (Cut‑and‑Paste for Each Hub)](4.%20Hub%20Metadata%20Scorecard%20(Cut‑and‑Paste%20for%20Each%20Hub).md)
+One principle to hold throughout: **the matrix is a compass, not a cage.** It doesn't tell you what you're *allowed* to repurpose. It tells you where your energy will generate the highest return. You can override it. You should override it sometimes—when your gut says a piece is special, when a timely moment demands a specific response, when you need to practice a platform you're still learning. But you override it *consciously*, with your eyes open, knowing what you're trading off. That's the difference between strategic choice and random guessing.
 
-[5. Weekly Sprint Prioritization Planner](5.%20Weekly%20Sprint%20Prioritization%20Planner.md)
+---
 
-[6. Monthly Matrix Maintenance Checklist](6.%20Monthly%20Matrix%20Maintenance%20Checklist.md)
+---
 
-[7. Complex Scenario Simulation Worksheet](7.%20Complex%20Scenario%20Simulation%20Worksheet.md)
+[TOOL 1 The Metrics-and-Goals Map](TOOL%201%20The%20Metrics-and-Goals%20Map.md)
 
-[8. AI Prompt Template Hub Content Scorer (Initial Impressions)](8.%20AI%20Prompt%20Template%20Hub%20Content%20Scorer%20(Initial%20Impressions).md)
+[TOOL 2 The Three-Dimension Scoring Rubric](TOOL%202%20The%20Three-Dimension%20Scoring%20Rubric.md)
 
-[9. Repurposing Decision Matrix at a Glance (One‑Pager)](9.%20Repurposing%20Decision%20Matrix%20at%20a%20Glance%20(One‑Pager).md)
+[TOOL 3 The Repurposing Decision Matrix](TOOL%203%20The%20Repurposing%20Decision%20Matrix.md)
 
-[10. Strategic Director Identity Anchor](10.%20Strategic%20Director%20Identity%20Anchor.md)
+[TOOL 4 The Ten-Piece Retrospective Score Worksheet](TOOL%204%20The%20Ten-Piece%20Retrospective%20Score%20Worksheet.md)
+
+[TOOL 5 The Sprint Prioritization Planner](TOOL%205%20The%20Sprint%20Prioritization%20Planner.md)
+
+[TOOL 6 The Matrix Maintenance Ritual](TOOL%206%20The%20Matrix%20Maintenance%20Ritual.md)
+
+[TOOL 7 The Data Blind Spot Diagnostic](TOOL%207%20The%20Data%20Blind%20Spot%20Diagnostic.md)
+
+[TOOL 8 The Hub Metadata Extension](TOOL%208%20The%20Hub%20Metadata%20Extension.md)
+
+[TOOL 9 The Complex Scenario Worksheet](TOOL%209%20The%20Complex%20Scenario%20Worksheet.md)
+
+[TOOL 10 The 30-Day Implementation Roadmap (Chapter 9)](TOOL%2010%20The%2030-Day%20Implementation%20Roadmap%20(Chapter%209).md)
+
+[Final Note](Final%20Note.md)

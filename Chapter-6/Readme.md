@@ -1,28 +1,41 @@
-# Chapter 6 Companion Toolkit  
-*The Sixty-Minute Multi-Platform Sprint*
+# Chapter 6 Companion Toolkit
 
-This toolkit converts the sprint from a concept into a repeatable, time-boxed ritual. You’ll find everything needed to run your first parallel-generation sprint, stick to a triage mindset, and recover quickly when life gets in the way. Print the checklists and keep them visible during your first few sprints—they’ll soon become second nature.
+## *The Sixty-Minute Multi-Platform Sprint — Your Working Documents*
 
 ---
 
-[1. Sprint Preflight Checklist](1.%20Sprint%20Preflight%20Checklist.md)
+## How to Use This Toolkit
 
-[2. Sprint Setup Sheet (Fill-in for Each Sprint)](2.%20Sprint%20Setup%20Sheet%20(Fill-in%20for%20Each%20Sprint).md)
+Chapter 6 is the gear that makes everything else actually *run*. You've got the Hub. You've got the prompts. You've got the Playbook. None of it matters if you still spend three hours on a Tuesday afternoon going back and forth between a half-edited tweet and a blank newsletter page. This toolkit gives you the structure to compress all of that into sixty focused minutes—and to do it every single week without it feeling like a heroic effort.
 
-[3. Parallel Generation Burst Execution Card](3.%20Parallel%20Generation%20Burst%20Execution%20Card.md)
+The documents here are designed to be *used in real time*. Tool 1 is your preflight checklist—run it in two minutes before every sprint. Tool 2 is your phase tracker—glance at it during the sprint to know where you are. Tool 3 is your triage scorecard—the thing you fill in as drafts come back. The rest are planning, troubleshooting, and habit-building documents.
 
-[4. Triage Decision Card](4.%20Triage%20Decision%20Card.md)
+Print Tools 1–3. Seriously. Paper works better than a tab for in-sprint reference. You don't want to be alt-tabbing during a timed session. Tape them to the wall next to your monitor, or lay them flat on your desk. The sprint is a physical ritual as much as a mental one.
 
-[5. Sprint Scorecard (Track and Improve)](5.%20Sprint%20Scorecard%20(Track%20and%20Improve).md)
+One rule for your first sprint: **lower your expectations.** Your first one will take seventy minutes. Maybe eighty. You'll get sucked into editing one thread for twelve minutes and blow the triage window. That's fine. The system is designed to be iterated, not perfected on day one. What matters is that you ran the sprint, you produced four assets, and you felt the difference between parallel generation and the old sequential grind. The speed comes. The rhythm comes. But only if you start.
 
-[6. Weekly Sprint Rhythm Planner](6.%20Weekly%20Sprint%20Rhythm%20Planner.md)
+---
 
-[7. Sprint Failure Diagnostic Card](7.%20Sprint%20Failure%20Diagnostic%20Card.md)
+---
 
-[8. The 60-Minute Timer Breakdown](8.%20The%2060-Minute%20Timer%20Breakdown.md)
+[TOOL 1 The Sprint Preflight Checklist](TOOL%201%20The%20Sprint%20Preflight%20Checklist.md)
 
-[9. Microsprint Rescue Plan](9.%20Microsprint%20Rescue%20Plan.md)
+[TOOL 2 The Sprint Phase Tracker](TOOL%202%20The%20Sprint%20Phase%20Tracker.md)
 
-[10. Sprint Day Identity Anchor](10.%20Sprint%20Day%20Identity%20Anchor.md)
+[TOOL 3 The Triage Scorecard](TOOL%203%20The%20Triage%20Scorecard.md)
 
-[11. AI Prompt Template Sprint Launch Orchestrator (Optional)](11.%20AI%20Prompt%20Template%20Sprint%20Launch%20Orchestrator%20(Optional).md)
+[TOOL 4 The Parallel Generation Burst Worksheet](TOOL%204%20The%20Parallel%20Generation%20Burst%20Worksheet.md)
+
+[TOOL 5 The Sprint Session Log](TOOL%205%20The%20Sprint%20Session%20Log.md)
+
+[TOOL 6 The Weekly Rhythm Planner](TOOL%206%20The%20Weekly%20Rhythm%20Planner.md)
+
+[TOOL 7 The Sprint Failure Diagnostic](TOOL%207%20The%20Sprint%20Failure%20Diagnostic.md)
+
+[TOOL 8 The Microsprint Template](TOOL%208%20The%20Microsprint%20Template.md)
+
+[TOOL 9 The Post-Sprint Refinement Protocol](TOOL%209%20The%20Post-Sprint%20Refinement%20Protocol.md)
+
+[TOOL 10 The 30-Day Sprint Habit Roadmap](TOOL%2010%20The%2030-Day%20Sprint%20Habit%20Roadmap.md)
+
+[Final Note](Final%20Note.md)
