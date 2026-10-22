@@ -35,5 +35,3 @@ One warning: your first amplification session will take longer than you expect. 
 [TOOL 8 The Complex Integration Challenge Worksheet](TOOL%208%20The%20Complex%20Integration%20Challenge%20Worksheet.md)
 
 [TOOL 9 The 30-Day Implementation Roadmap (Chapter 10)](TOOL%209%20The%2030-Day%20Implementation%20Roadmap%20(Chapter%2010).md)
-
-[Final Note](Final%20Note.md)

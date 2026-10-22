@@ -35,5 +35,3 @@ One principle to hold throughout: **every manual handoff is a design failure, no
 [TOOL 9 Platform-Specific Formatting Quick Reference](TOOL%209%20Platform-Specific%20Formatting%20Quick%20Reference.md)
 
 [TOOL 10 The 30-Day Implementation Roadmap (Chapter 7)](TOOL%2010%20The%2030-Day%20Implementation%20Roadmap%20(Chapter%207).md)
-
-[Final Note](Final%20Note.md)

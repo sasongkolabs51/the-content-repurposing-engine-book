@@ -35,5 +35,3 @@ One principle to hold throughout: **the matrix is a compass, not a cage.** It do
 [TOOL 9 The Complex Scenario Worksheet](TOOL%209%20The%20Complex%20Scenario%20Worksheet.md)
 
 [TOOL 10 The 30-Day Implementation Roadmap (Chapter 9)](TOOL%2010%20The%2030-Day%20Implementation%20Roadmap%20(Chapter%209).md)
-
-[Final Note](Final%20Note.md)

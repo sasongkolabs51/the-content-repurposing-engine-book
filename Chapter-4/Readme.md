@@ -37,5 +37,3 @@ One rule before you start: **done beats perfect.** Your first Hub will be rough.
 [TOOL 9 The Hub Maintenance Log](TOOL%209%20The%20Hub%20Maintenance%20Log.md)
 
 [TOOL 10 The 30-Day Implementation Roadmap (Chapter 4)](TOOL%2010%20The%2030-Day%20Implementation%20Roadmap%20(Chapter%204).md)
-
-[Final Note](Final%20Note.md)

@@ -35,5 +35,3 @@ One principle to hold: **the system serves your life, not the other way around.*
 [TOOL 9 The One Percent Rule Log](TOOL%209%20The%20One%20Percent%20Rule%20Log.md)
 
 [TOOL 10 The 30-Day Flywheel Implementation Roadmap](TOOL%2010%20The%2030-Day%20Flywheel%20Implementation%20Roadmap.md)
-
-[Final Note](Final%20Note.md)

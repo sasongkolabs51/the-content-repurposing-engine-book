@@ -31,5 +31,3 @@ One warning before you start: this chapter will make you slightly obsessed with 
 [TOOL 7 The Complex Scenario Challenge Worksheet](TOOL%207%20The%20Complex%20Scenario%20Challenge%20Worksheet.md)
 
 [TOOL 8 The 30-Day Implementation Roadmap (Chapter 8)](TOOL%208%20The%2030-Day%20Implementation%20Roadmap%20(Chapter%208).md)
-
-[Final Note](Final%20Note.md)

@@ -33,5 +33,3 @@ You'll need about 90 minutes for the full first pass. Block the time. Close the 
 [TOOL 9 The Weekly Editorial Director Planning Sheet](TOOL%209%20The%20Weekly%20Editorial%20Director%20Planning%20Sheet.md)
 
 [TOOL 10 The 30-Day Implementation Roadmap](TOOL%2010%20The%2030-Day%20Implementation%20Roadmap.md)
-
-[Final Note](Final%20Note.md)

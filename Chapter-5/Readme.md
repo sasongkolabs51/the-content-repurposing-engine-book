@@ -35,5 +35,3 @@ One mindset note before you start: **a prompt is not a prayer.** You're not hopi
 [TOOL 9 The Prompt-Playbook Integration Map](TOOL%209%20The%20Prompt-Playbook%20Integration%20Map.md)
 
 [TOOL 10 The 30-Day Implementation Roadmap (Chapter 5)](TOOL%2010%20The%2030-Day%20Implementation%20Roadmap%20(Chapter%205).md)
-
-[Final Note](Final%20Note.md)

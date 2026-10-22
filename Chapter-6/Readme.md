@@ -37,5 +37,3 @@ One rule for your first sprint: **lower your expectations.** Your first one will
 [TOOL 9 The Post-Sprint Refinement Protocol](TOOL%209%20The%20Post-Sprint%20Refinement%20Protocol.md)
 
 [TOOL 10 The 30-Day Sprint Habit Roadmap](TOOL%2010%20The%2030-Day%20Sprint%20Habit%20Roadmap.md)
-
-[Final Note](Final%20Note.md)
